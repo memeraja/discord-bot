@@ -27,3 +27,4 @@ NOTE: We recommend opening an Issue first and link it to your PullRequest before
 Ask for help in our official NGIT discord server. We can help you in many ways 
 
 **Help in learning JS** : Either you already know the basics of JS or are a complete beginner, [this FREE course on **Sololearn** can help you learn essential JavaScript](https://www.sololearn.com/learning/1024) in the least possible time - You can skip `DOM & Events` section in the course, we won't be using it here.<details><summary>SOLOLEARN WARNING</summary>The **Sololearn** course isn't practice-oriented, so make sure you also practice in your local setup while learning on Sololearn.</details>
+abcd
